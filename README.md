@@ -92,7 +92,7 @@ Update `application.yml`:
 ```yaml
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/practo_db
+    url: jdbc:postgresql://localhost:5432/practo_db
     username: root
     password: root
 ```
